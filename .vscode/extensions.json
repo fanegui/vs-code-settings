@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "rust-lang.rust-analyzer",
+        "usernamehw.errorlens",
+        "streetsidesoftware.code-spell-checker",
+        "github.copilot",
+        "github.vscode-github-actions",
+        "github.vscode-pull-request-github",
+        "wakatime.vscode-wakatime",
+        "antfu.theme-vitesse",
+        "antfu.icons-carbon",
+        "antfu.theme-vitesse",
+        "file-icons.file-icons",
+        "sainnhe.gruvbox-material",
+    ]
+}
