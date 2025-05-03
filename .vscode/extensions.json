@@ -12,5 +12,6 @@
         "antfu.theme-vitesse",
         "file-icons.file-icons",
         "sainnhe.gruvbox-material",
+        "tamasfe.even-better-toml",
     ]
 }
